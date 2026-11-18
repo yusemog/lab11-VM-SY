@@ -1,3 +1,7 @@
+# https://github.com/yusemog/lab11-VM-SY
+# Partner 1: Vedant Malik
+# Partner 2: Siddharth Yerramsetty
+
 import unittest
 from calculator import *
 
